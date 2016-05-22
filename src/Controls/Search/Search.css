@@ -1,0 +1,11 @@
+input[type=search] {
+    background-image: url(http://www.w3schools.com/howto/searchicon.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    margin-left: 5px;
+    padding: 10px;
+    text-indent: 30px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    box-shadow: 0 0 5px #ccc, 0px -10px 15px #ebebeb inset;
+}
